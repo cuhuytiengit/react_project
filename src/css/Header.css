@@ -1,0 +1,16 @@
+.menu {
+  height: 80px;
+  width: 100%;
+  background-color: rgb(52, 199, 142);
+}
+.menu li {
+  float: left;
+  list-style: none;
+  padding: 30px 100px 0px 50px;
+  font-size: 15px;
+  font-family: sans-serif;
+}
+
+.Carousle {
+  background-color: blueviolet;
+}
